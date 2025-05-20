@@ -1,0 +1,34 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: #dedede;
+    text-align: center;
+} 
+
+header {
+    background-color: antiquewhite;
+}
+
+main {
+    background-color: antiquewhite;
+} 
+
+div {
+    display: inline-block;
+}
+
+p {
+    line-height: normal;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    font-family: cursive;
+    font-size: small;
+    padding-top: 12px;
+}
+
